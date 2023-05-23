@@ -6,6 +6,10 @@
 	<string>TEST-22c-504</string>
 	<key>CleverTapAccountID</key>
 	<string>TEST-4W5-9RR-646Z</string>
+	<key>CleverTapDisableIDFV</key>
+	<false/>
+	<key>CleverTapRegion</key>
+	<string>eu1</string>
 	<key>UIApplicationSceneManifest</key>
 	<dict>
 		<key>UIApplicationSupportsMultipleScenes</key>
